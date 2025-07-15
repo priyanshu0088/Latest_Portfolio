@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Priyanshu Dev Vishwakarma </span>
             from <span className="purple"> Madhaya Pradesh, India.</span>
             <br />
-            Recentry I Graduated from AKS University Satna.
+            Recently I Graduated from AKS University Satna.
             <br />
             I have completed Java Fullstack Training From Ducat Institute Noida.
             <br />
